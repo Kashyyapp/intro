@@ -8,7 +8,7 @@
 - 📧 Reach me through kashsavaliya05@gmail.com
 
 #### Connect with me:
-[LinkedIn](https://linkedin.com/in/kashyyapp) | [Medium](https://medium.com/@kashyyapp)
+[LinkedIn](https://linkedin.com/in/kashyyapp) 
 
 #### Languages and Tools:
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
