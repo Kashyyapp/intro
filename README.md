@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Kashyap!
-#### I'm currently working as a Security Engineer Intern at Secureloopholes
+#### Certified Penetration Tester Engineer ( CPTE )
 
 - 🔥 Keep Learning Cybersecurity
 - 🌟 I’m looking to collaborate on Python scripts and projects
@@ -8,7 +8,7 @@
 - 📧 Reach me through kashsavaliya05@gmail.com
 
 #### Connect with me:
-[LinkedIn]((https://www.linkedin.com/in/kashyyapp/)) 
+[LinkedIn](https://linkedin.com/in/kashyyapp) | [Medium](https://medium.com/@kashyyapp)
 
 #### Languages and Tools:
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
